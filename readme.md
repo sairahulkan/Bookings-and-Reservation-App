@@ -1,1 +1,1 @@
-Bookings and Reservations application built using Go
+Bookings and Reservations application
